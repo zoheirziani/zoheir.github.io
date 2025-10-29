@@ -1,0 +1,20 @@
+/* TEAM */
+Developer: Zoheir Ziani
+Role: Front-End Developer
+Contact: ziani.zoheir@gmail.com
+From: Lille, France
+Website: https://zoheirziani.github.io
+GitHub: https://github.com/zoheirziani
+
+/* SITE */
+Last update: 2025-10-29
+Language: English
+Standards: HTML5, CSS3
+Technologies: HTML, CSS, SASS, JavaScript, TypeScript
+IDE: Visual Studio Code
+
+/* COLOPHON */
+Hosting: GitHub Pages
+
+/* THANKS */
+Thanks to: Myself, for all the hard work and dedication!
